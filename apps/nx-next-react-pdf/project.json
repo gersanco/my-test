@@ -1,0 +1,9 @@
+{
+  "name": "nx-next-react-pdf",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nx-next-react-pdf",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nx-next-react-pdf --web",
+  "targets": {}
+}
