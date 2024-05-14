@@ -19,5 +19,5 @@ const plugins = [
   withNx,
 ];
 
-// module.exports = composePlugins(...plugins)(nextConfig);
-module.exports = {};
+module.exports = composePlugins(...plugins)(nextConfig);
+// module.exports = {};
